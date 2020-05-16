@@ -1,0 +1,159 @@
+.bg-light {
+    background-color: teal!important;
+    color: #fff!important;
+}
+
+.bg-light ul li a {
+    color: #fff!important;
+}
+
+.textocentro{background-color: teal;
+    color: #fff;
+    text-align: center;
+    height: 50px;
+    font-family: 'minion pro';
+    font-size: 28px;
+    padding-top: 8PX;
+}
+
+.titulologin{text-align: center;
+             font-family: 'Minion Pro';}
+
+
+.imglogin{
+    height: 150px;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.bg-light .dropdown-item {
+    color: #000!important;
+}
+.image{
+    width: 100px;
+    height: 100px;
+}
+.busca {
+    margin: 30px 0;
+}
+
+.busca{margin: 30px 0;}
+
+.card-body {
+    width: 270px;
+    height: 379px;
+}
+.card-img-top {
+    width: 286px;
+    height: 190px;
+}
+.card-text {text-align: justify;
+    height: 260px;
+}
+.ml-auto .dropdown-menu {
+    left: auto !important;
+    right: 0px;
+}
+
+.form-control::-webkit-input-placeholder {
+    color: #b3b3b3;
+    font-size: 0.9375rem;
+}
+
+.form-control.main {
+    background: transparent;
+    border: 1px solid #b3b3b3;
+    border-radius: 2;
+    font-size: 0.9375rem;
+    padding: 25px 20px;
+    margin-bottom: 20px;
+    color: #b3b3b3;
+}
+
+.form-control.main:focus {
+    border: 1px solid #00AFEF;
+}
+
+.form-control.white {
+    background: #fff;
+    color: #222222;
+}
+
+select.form-control:not([size]):not([multiple]) {
+    height: 100%;
+}
+
+.btn {
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    transition: all .3s ease;
+  }
+  .btn-main {
+    padding: 25px 45px;
+    border-radius: 3px;
+    background: #00AFEF;
+    color: #fff;
+    outline: none;
+  }
+  
+  .btn-main:hover {
+    color: #fff;
+  }
+  
+  .btn-main:focus {
+    color: #fff;
+    box-shadow: none;
+  }
+  
+  .btn-main-md {
+    padding: 15px 40px;
+    border-radius: 0;
+    background: teal;
+    color: #fff;
+    outline: none;
+    font-size: 0.9375rem;
+    margin-bottom: 10px;
+  }
+  
+  .btn-main-md:hover {
+    color: #fff;
+    background: rgb(7, 63, 63);
+  }
+
+.fundobanner {background-color: #091f2e;}
+
+.h3{
+    color: #0d05fc;
+}
+.card{margin-top: 20px;
+      margin-bottom: 10px;
+
+}
+
+.card-link{color: #5092c6;
+           font-weight: bold;
+
+}
+
+.card-link:hover{color: #0768b3;
+    font-weight: bold;
+
+}
+
+.alert-heading{text-align: center;}
+
+.mb-0{text-align: center;}
+
+.card-title{text-align: center;
+            color: #1f4768;
+            font-weight: bold;
+            font-family: 'Minion Pro';
+}
+
+.borda {margin-top: 30px;
+    border-radius: 5px;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;}
